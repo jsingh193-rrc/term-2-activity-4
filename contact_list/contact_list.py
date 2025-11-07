@@ -1,8 +1,8 @@
 """The module defines the ContactList class."""
 
-__author__ = "ACE Faculty"
+__author__ = "Jashandeep Singh"
 __version__ = "1.0.0"
-__credits__ = ""
+__credits__ = "ACE Faculty"
 
 from PySide6.QtWidgets import  (QMainWindow, QLineEdit, QPushButton, 
 QTableWidget, QLabel, QVBoxLayout, QWidget, QTableWidgetItem, QMessageBox)

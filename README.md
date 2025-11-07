@@ -13,4 +13,4 @@ Jashandeep Singh
 
 ## Additional Information
 
-[ Use this space to include additional information that may help in your learning. ]
+In this activity, I used simple slot function to make the functionality for adding and removing contacts work. While this was very easy and quick activity, I had to research on QMessageBox to make a confirmation dialogue appear on clicking Remove Contact button.
